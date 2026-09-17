@@ -312,7 +312,7 @@ AnnotationsLab/
 
 Une seule vidéo montre l'exécution des 14 étapes, dans l'ordre.
 
-[Voir la démo vidéo](videos/demo.mp4)
+https://github.com/user-attachments/assets/6af53344-693b-4085-b1f6-114903e7aa53
 
 ## Auteur
 
